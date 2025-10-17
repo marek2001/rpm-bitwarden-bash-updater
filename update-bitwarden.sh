@@ -58,4 +58,4 @@ sudo rpm -i "$BITWARDEN_RPM"
 echo "🎉 Bitwarden has been updated successfully!"
 
 # Cleanup
-rm -f "$BITWARDEN_DEB"
+rm -f "$BITWARDEN_RPM"
